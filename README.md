@@ -1,2 +1,7 @@
 # TUGAS-KNAPSACK
-KELOMPOK 3
+KELOMPOK 4
+
+Nama Kelompok
+1. Al Hizra (105841101523)
+2. Amanda Febriyanti (105841101223)
+
